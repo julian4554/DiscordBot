@@ -1,3 +1,14 @@
+"""
+Die restlichen Dateien die importiert werden (requirements txt, config, etc.. sind eigene Files auf meinem lokalen Rechner die ich nicht auf Github hochlade. (private token, api keys, id etc)
+Der Code hier ist nur zum showcase da
+Es handelt sich um Ausschnitte und  nicht den gesamten Bot.
+"""
+
+
+
+
+
+
 # ----------------------------------------------------- Imports ------------------------------------------------------#
 import json
 import discord
