@@ -129,7 +129,7 @@ async def riot():
     c = client.get_channel(CHANNEL_ID)
     puuid_idc = "8u_Qo8ty7iwMyr-NK479ikhhTESS1VRyBh4iWs8ujU2l2JzJ-flXnAssnrSKwqVEhw5Jd4PCSRkpyw"  # PUUID des Spielers, für den die Daten abgerufen werden sollen
     last10games_id = requests.get(  # Die API-Anfrage, um die IDs der letzten 10 Spiele des Spielers abzurufen
-        "https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/8u_Qo8ty7iwMyr-NK479ikhhTESS1VRyBh4iWs8ujU2l2JzJ-flXnAssnrSKwqVEhw5Jd4PCSRkpyw/ids?type=ranked&start=0&count=10&api_key=RGAPI-224624f6-5f1e-436c-9e8a-cc34bb6df9b1")
+        "https://europe.api.riotgames.com/lol/match/v5/matches/by-puuid/8u_Qo8ty7iwMyr-NK479ikhhTESS1VRyBh4iWs8ujU2l2JzJ-flXnAssnrSKwqVEhw5Jd4PCSRkpyw/ids?type=ranked&start=0&count=10&api_key={RIOT_API_KEY}")
     f = open('lastMatch.txt')
     lines = f.readlines()
     last10games_id_json = last10games_id.json()
