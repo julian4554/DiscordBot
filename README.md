@@ -11,7 +11,7 @@ The provided code defines several asynchronous functions and uses the apschedule
 
 <h2>Improvements and future ideas</h2>
 Lately i learned a lot about Data Science and Machine Learning Models so i thought about updating the functions.
-I want the Bot to run 24/7 on a Raspberry Pi with Docker but due to the global Semiconductor Shortage and other factors i have yet not ordered a new one where i would run the bot on.
+I want the Bot to run 24/7 on a Raspberry Pi with Docker but due to the global Semiconductor Shortage and other factors(2022) i have yet not ordered a new one where i would run the bot on.
 Anyway if i get one i will update the player analysis of the game function with regression models and more.
 
 
