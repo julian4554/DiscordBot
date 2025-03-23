@@ -47,8 +47,7 @@ Function 3: Sends Nasa picture of the day <br/>
   <img src="https://github.com/julian4554/DiscordBot/assets/28981754/031975a0-2b42-4393-b3c9-228dd9c528d9" height="80%" width="80%" alt=""/>
 <br />
   Function 4: Notification when a friend finishes a League of Legends match. Information via RiotDev Api <br/>
-<img src="https://github.com/julian4554/DiscordBot/assets/28981754/c5f57ac7-b3d2-4b32-af1f-f2c5fc17e9c9" height="80%" width="80%" alt="Notification if ISS is orbiting over us"/>
-<br />
+
   Function 4 Code: <br />
   <img src="https://github.com/julian4554/DiscordBot/assets/28981754/74e3ef11-b0eb-4a20-813e-84b69eb77114" height="80%" width="80%" alt="Notification if ISS is orbiting over us"/>
 <br />
