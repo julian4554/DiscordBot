@@ -1,8 +1,9 @@
-<h1>Discord Bot</h1>
+<h1>Discord Bot (2021)</h1>
 
 
 
 <h2>Description</h2>
+One of my first projects (2021)
 Here i just created a Discord Bot within some days for my friends and for learning purposes.
 Initially i created Herman for a friend that asked whether i could track his League of Legends ranked games in our Discord Channel.
 This Discord bot also offers several automated features. It tracks the International Space Station (ISS) to determine if it's passing over our heads and then sends a message greeting us. Additionally, Herman provides daily weather updates for a predefined location and shares them with us. It sends a daily quote from "Herr der Ringe" (Lord of the Rings) and the NASA Picture of the Day to the Discord group. 
